@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../Learn_GIT/git-essential-training-5988161"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../TypeScript"
+		}
+	],
+	"settings": {
+		"explorer.openEditors.visible": 0,
+		"terminal.integrated.fontSize": 22,
+		"workbench.colorTheme": "Visual Studio Dark",
+		"workbench.statusBar.visible": true
+	}
+}
